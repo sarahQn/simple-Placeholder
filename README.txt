@@ -1,0 +1,1 @@
+Ceci est le readme de l'exercice sur Git et GitHub.
